@@ -27,40 +27,6 @@ What does the user need to know about contributing to the repo?
 
 The user should be given a Success! log and their very own README.md should be generated in the output folder
 
-Table of Contents
-
-Installation
-
-Usage
-
-License
-
-Tests
-
-Questions
-
-Links
-
-readme-Generator Github Repo URL
-
-Installation
-
-To install necessary dependencies after cloning the repository, run the following command into this repo's terminal:
-
-npm i
-Usage
-
-You must have node.js installed to run the application. Once installed run the command through your terminal:
-
-node index.js
-License
-
-This project is licensed under the MIT license
-
-Tests
-
-There is currently no testing for this application
-
-Questions
-
 If you have any questions feel free to contact me at either Github, or malcolm2345@outlook.com
+
+<img width="1440" alt="Screen Shot 2022-03-07 at 7 46 28 PM" src="https://user-images.githubusercontent.com/92911517/157162672-1b6091f2-5683-4b44-af2d-5b52b2d8a9ab.png">
