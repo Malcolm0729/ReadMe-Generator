@@ -30,3 +30,7 @@ The user should be given a Success! log and their very own README.md should be g
 If you have any questions feel free to contact me at either Github, or malcolm2345@outlook.com
 
 <img width="1440" alt="Screen Shot 2022-03-07 at 7 46 28 PM" src="https://user-images.githubusercontent.com/92911517/157162672-1b6091f2-5683-4b44-af2d-5b52b2d8a9ab.png">
+
+
+How to run the readme generator
+https://youtu.be/pGV2etAe_Oo
